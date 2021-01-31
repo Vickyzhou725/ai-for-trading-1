@@ -1,6 +1,6 @@
 from collections import OrderedDict
 import pandas as pd
-from term1_quantitative_trading.exercises.d_stock_prices.tests import project_test, assert_output
+from tests import project_test, assert_output
 
 
 @project_test

@@ -1,6 +1,6 @@
 from collections import OrderedDict
 import pandas as pd
-from market_mechanics.tests import project_test, assert_output, generate_random_tickers
+from tests import project_test, assert_output, generate_random_tickers
 
 
 @project_test
